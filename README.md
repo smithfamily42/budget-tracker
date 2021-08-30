@@ -13,5 +13,8 @@ Heroku deployment
 GitHub: https://github.com/smithfamily42/budget-tracker
 Heroku: https://brad-budget-tracker.herokuapp.com/
 
+### Screenshot
+![](2021-08-29-20-37-29.png)
+
 ### License
 MIT License is used for this project. Please refer to the license.txt file for more details.
